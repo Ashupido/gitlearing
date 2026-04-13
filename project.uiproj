@@ -1,0 +1,6 @@
+{
+  "Name": "Dynamic Text Target",
+  "ProjectType": "Process",
+  "Description": "Use Dynamic Text Target Option",
+  "MainFile": "Main.xaml"
+}
